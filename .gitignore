@@ -1,7 +1,6 @@
 /.nyc_output
 /.tmp
 /coverage
-/dist
 /docs/.vuepress/dist
 /docs/node_modules
 /node_modules
